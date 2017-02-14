@@ -1,0 +1,10 @@
+[
+    // 双击鼠标左键URL跳转【插件URLs】
+    {
+        "button": "button1",
+        "count": 2,
+        "press_command": "open_url_under_cursor",
+        "modifiers": ["ctrl"],
+        "command": "open_url_under_cursor"
+    },    
+]

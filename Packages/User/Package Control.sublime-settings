@@ -1,0 +1,54 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"channels":
+	[
+		"http://ocfxac0k9.bkt.clouddn.com/static/f/channel_v3.json",
+		"http://wilon.github.io/static/f/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"AutoHotkey",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"CodeFormatter",
+		"Color Highlighter",
+		"ColorSchemeSelector",
+		"ConvertToUTF8",
+		"Ctranslator tool",
+		"Diffy",
+		"DocBlockr",
+		"Emmet",
+		"FavoriteFiles",
+		"FileDiffs",
+		"HTML Minifier",
+		"HTMLBeautify",
+		"IMESupport",
+		"Insert Nums",
+		"LiveStyle",
+		"Markdown Preview",
+		"MarkdownHighlighting",
+		"Open-Include",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"ProjectManager",
+		"react-native-snippets",
+		"ReactJS",
+		"SFTP",
+		"SideBarEnhancements",
+		"Smarty",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"TabsExtra",
+		"TortoiseSVN",
+		"VimL"
+	]
+}

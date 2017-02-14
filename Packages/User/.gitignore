@@ -1,0 +1,10 @@
+*_cache.json
+*.last-run
+*.log
+*.cache
+c2u_tmp
+Projects/*
+!Projects/*.sublime-project
+/Package Control.last-run
+/Package Control.merged-ca-bundle
+scheme_styles.json

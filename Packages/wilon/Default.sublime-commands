@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Wilon: Format Blog JSON",
+        "command": "format_blog_json"
+    },
+    {
+        "caption": "Wilon: Minify Blog JSON",
+        "command": "minify_blog_json"
+    }
+]

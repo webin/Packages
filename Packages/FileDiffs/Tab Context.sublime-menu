@@ -1,0 +1,6 @@
+[
+    { "caption": "-" },
+    { "caption": "比较文件菜单", "command": "file_diff_menu" },
+    { "caption": "与其他标签文件比较", "command": "file_diff_tab" },
+    { "caption": "-" },
+]
