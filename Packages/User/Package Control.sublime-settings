@@ -13,11 +13,11 @@
 	[
 		"Alignment",
 		"All Autocomplete",
+		"AngularJS",
 		"AutoFileName",
-		"AutoHotkey",
 		"BracketHighlighter",
 		"Clickable URLs",
-		"CodeFormatter",
+		"Codecs33",
 		"Color Highlighter",
 		"ColorSchemeSelector",
 		"ConvertToUTF8",
@@ -29,8 +29,8 @@
 		"FileDiffs",
 		"HTML Minifier",
 		"HTMLBeautify",
-		"IMESupport",
 		"Insert Nums",
+		"JsFormat",
 		"LiveStyle",
 		"Markdown Preview",
 		"MarkdownHighlighting",
@@ -48,7 +48,6 @@
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"TabsExtra",
-		"TortoiseSVN",
 		"VimL"
 	]
 }

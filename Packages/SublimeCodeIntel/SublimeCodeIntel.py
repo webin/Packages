@@ -1398,11 +1398,11 @@ def format_completions_by_language(cplns, language, text_in_current_line, trigge
     function = None if 'import ' in text_in_current_line else 'function'
     if language == "PHP":
         if not trigger or trigger.name != "php-complete-object-members":
-            return [('%s' % (('$' if t == 'variable' else '') + n, t), (('$' if t == 'variable' else '') + n).replace("$", "\\$") + ('($0)' if t == function else '')) for t, n in cplns]
+            return [('%s〔%s〕' % (('$' if t == 'variable' else '') + n, t), (('$' if t == 'variable' else '') + n).replace("$", "\\$") + ('($0)' if t == function else '')) for t, n in cplns]
         else:
             return [('%s〔%s〕' % (n, t), (n).replace("$", "\\$") + ('($0)' if t == function else '')) for t, n in cplns]
     else:
-        return [('%s' % (n, t), (n).replace("$", "\\$") + ('($0)' if t == function else '')) for t, n in cplns]
+        return [('%s〔%s〕' % (n, t), (n).replace("$", "\\$") + ('($0)' if t == function else '')) for t, n in cplns]
 
 
 class PythonCodeIntel(sublime_plugin.EventListener):

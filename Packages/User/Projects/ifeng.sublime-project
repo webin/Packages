@@ -2,13 +2,19 @@
 	"folders":
 	[
 		{
-			"path": "C:\\xampp\\htdocs\\ifeng\\noah3"
+			"path": "/Users/weilong/web/ifeng/cert"
 		},
 		{
-			"path": "C:\\xampp\\htdocs\\ifeng\\ossec"
+			"path": "/Users/weilong/web/ifeng/ossec"
 		},
 		{
-			"path": "C:\\xampp\\htdocs\\ifeng\\iknow"
+			"path": "/Users/weilong/web/ifeng/jumpbox"
+		},
+		{
+			"path": "/Users/weilong/web/ifeng/noah3"
+		},
+		{
+			"path": "/Users/weilong/web/ifeng/security"
 		}
 	]
 }

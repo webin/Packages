@@ -2,13 +2,28 @@
 	"folders":
 	[
 		{
-			"path": "C:\\xampp\\htdocs\\github\\test"
+			"path": "/Users/weilong/web/github/wilon.github.io"
 		},
 		{
-			"path": "C:\\xampp\\htdocs\\github\\wilon.github.io"
+			"path": "/Users/weilong/web/github/mynote"
 		},
 		{
-			"path": "C:\\xampp\\htdocs\\github\\sublime"
+			"path": "/Users/weilong/web/github/phpcmd"
+		},
+		{
+			"path": "/Users/weilong/web/github/stforum"
+		},
+		{
+			"path": "/Users/weilong/web/github/authcode"
+		},
+		{
+			"path": "/Users/weilong/web/github/simple-debug"
+		},
+		{
+			"path": "/Users/weilong/web/github/tt"
+		},
+		{
+			"path": "/Users/weilong/web/github/test"
 		}
 	]
 }

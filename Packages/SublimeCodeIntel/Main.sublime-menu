@@ -1,6 +1,6 @@
 [
     {
-        "caption": "首选项(N)",
+        "caption": "Preferences",
         "mnemonic": "n",
         "id": "preferences",
         "children":
