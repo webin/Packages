@@ -17,13 +17,13 @@
 			"path": "/Users/weilong/web/github/authcode"
 		},
 		{
-			"path": "/Users/weilong/web/github/simple-debug"
-		},
-		{
 			"path": "/Users/weilong/web/github/tt"
 		},
 		{
 			"path": "/Users/weilong/web/github/test"
+		},
+		{
+			"path": "/Users/weilong/web/github/simple-php-debug"
 		}
 	]
 }

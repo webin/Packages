@@ -1,5 +1,17 @@
 [
 	{
+        "caption": "aaaaa_side_bar",
+        "id": "aaaaa_side_bar",
+        "command": "aaaaa_side_bar",
+        "args": {
+            "paths": []
+        }
+    },
+    {
+        "caption": "-",
+        "id": "side-bar-start-separator"
+    },
+	{
 		"caption": "新建文件…",
 		"id": "side-bar-new-file",
 		"command": "side_bar_new_file",
